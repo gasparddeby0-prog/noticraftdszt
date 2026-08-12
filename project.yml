@@ -1,4 +1,4 @@
-name: NotifCraft
+nname: NotifCraft
 options:
   bundleIdPrefix: com.vincentdeby
   deploymentTarget:
