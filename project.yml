@@ -25,6 +25,7 @@ targets:
         INFOPLIST_KEY_UILaunchScreen_Generation: "YES"
         INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
     info:
+      path: Info.plist
       properties:
         CFBundleDisplayName: "NotifCraft"
         UIRequiredDeviceCapabilities: [armv7]
