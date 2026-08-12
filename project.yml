@@ -10,9 +10,9 @@ targets:
     type: application
     platform: iOS
     sources:
-      - path: Sources
+      - Sources
     resources:
-      - path: Resources
+      - Resources
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.vincentdeby.notifcraft
